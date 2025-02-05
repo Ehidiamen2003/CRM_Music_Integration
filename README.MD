@@ -1,4 +1,4 @@
-echo "# CRM Music Integration
+# CRM Music Integration
 
 ## Overview
 The **CRM Music Integration** project is a SQL-based Customer Relationship Management (CRM) system designed to help businesses analyze customer data, track sales performance, and gain insights into music streaming habits. The system integrates traditional CRM features with music data analytics, allowing businesses to understand customer preferences better.
