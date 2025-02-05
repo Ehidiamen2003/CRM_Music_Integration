@@ -11,14 +11,12 @@ The **CRM Music Integration** project is a SQL-based Customer Relationship Manag
 - **Event Tracking**: Monitor customer attendance at music events and ticket sales.
 
 ## File Structure
-\`\`\`
 CRM_Music_Integration/
 │── schema.sql           # Database schema definition
 │── data_insert.sql      # Sample data for the database
 │── crm_main.sql         # Main SQL queries and insights
 │── README.md            # Project documentation
 │── images/              # Folder for project-related images (if applicable)
-\`\`\`
 
 ## Setup Instructions
 1. Clone the repository:
@@ -49,5 +47,3 @@ CRM_Music_Integration/
 
 ## License
 This project is open-source and available under the MIT License.
-
-" > README.md
