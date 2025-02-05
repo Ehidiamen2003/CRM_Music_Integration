@@ -18,14 +18,14 @@ This project is a SQL-based Customer Relationship Management (CRM) system design
 git clone https://github.com/Ehidiamen2003/CRM_Music_Integration.git
 
 ### Import the schema:
-psql -U Ehidiamen2003 -d your_database -f schema.sql
+psql -U Ehidiamen2003 -d your_database -f [schema.sql](schema.sql)
 
 ### Insert sample data:
-psql -U Ehidiamen2003 -d your_database -f data_insert.sql
+psql -U Ehidiamen2003 -d your_database -f [data_insert.sql](data_insert.sql)
 
 ### Run the queries for insights:
-You can run the queries provided in the `crm_main.sql` file to analyze customer data, streaming history, and sales.
-psql -U Ehidiamen2003 -d your_database -f crm_main.sql
+You can run the queries provided in the [crm_main.sql](crm_main.sql) file to analyze customer data, streaming history, and sales.
+psql -U Ehidiamen2003 -d your_database -f [crm_main.sql](crm_main.sql)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
